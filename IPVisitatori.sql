@@ -1,3 +1,3 @@
-CREATE TABLE IPVisitatori (
+CREATE TABLE IPVisitatore (
  ip VARCHAR(20),
 );
